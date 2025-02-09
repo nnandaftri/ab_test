@@ -1,4 +1,4 @@
-# Analysis of A/B Test Results
+# A/B Testing
 
 This repository contains a Jupyter Notebook (`ab.ipynb`) that performs an analysis of A/B test results. This dataset emulates information regarding visits made by users on imaginary retail websites across the UK. So, in this scenario, let the color 'White' be assigned to Group A which is the default setting for the background color on the website, representing the control group. Also, let the color 'Black' be equivalent to Group B which is the newer setting to test. The notebook includes the following sections:
 
